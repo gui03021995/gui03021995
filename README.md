@@ -1,7 +1,7 @@
 
 ## Ei eu sou o Guilherme Morais.
 
-- 🔭 I'm currently working on software development, with C#(.Net), SqlServer and Asp.net .
+- 🔭 I'm currently working on software development, with C#(.Net), SqlServer.
 - 🌱 I'm looking for knowledge with programming languages, python, sql, c# and PowerBi.
 
 <div style="display: inline_block"><br>
