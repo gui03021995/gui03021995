@@ -1,8 +1,12 @@
 
-## Ei eu sou o Guilherme Morais.
+## Olá, seja bem-vindo(a)!
 
-- 🔭 I'm currently working on software development, with C#(.Net), SqlServer.
-- 🌱 I'm looking for knowledge with programming languages, python, sql, c# and PowerBi.
+#
+- 👨‍💻 Desenvolvedor SQL / PYTHON apaixonado por criar experiências digitais incríveis.
+- 🎓 Formado em Engenharia da Computação.
+- 🔭 Tenho experiência com desenvolvimento de aplicações desktop, banco de dados relacional e aplicações de Businesses Intelligence.
+- 💼 Trabalhei em projetos desafiadores, colaborando com equipes ágeis e contribuindo para o desenvolvimento de soluções inovadoras.
+- 🚀 Participei ativamente em projetos desafiadores, trabalhando em equipes ágeis e desempenhando um papel fundamental no desenvolvimento de soluções inovadoras.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
