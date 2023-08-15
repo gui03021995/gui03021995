@@ -19,9 +19,7 @@
 </div>
 
 
-###
-
-🔧 Tecnologias Utilizadas
+###🔧 Tecnologias Utilizadas
 
 #
 🎨 Back-end
@@ -34,7 +32,7 @@
 #
 🔍 Stack de Dados
 <div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />         
+  <img align="center" alt="gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />         
   <img align="center" alt="gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="gui-Pandas" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
    <img align="center" alt="gui-Sql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />          
@@ -45,7 +43,7 @@
 #
 📊 Banco de Dados
 <div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
+  <img align="center" alt="gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
   <img align="center" alt="gui-Sql" height="30" width="40" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">  
   <img align="center" alt="gui-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />          
 </div>
@@ -62,17 +60,17 @@
 #          
 ⚙️ Packages
 <div style="display: inline_block"><br>             
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />       
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+            <img align="center" alt="gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+            <img align="center" alt="gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />       
+            <img align="center" alt="gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 </div>
 
 
 #
 💻 Software
 <div style="display: inline_block"><br>
-             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />     
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />               
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />         
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />          
+             <img align="center" alt="gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />     
+            <img align="center" alt="gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />               
+            <img align="center" alt="gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />         
+            <img align="center" alt="gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />          
 </div>
