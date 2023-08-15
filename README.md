@@ -11,7 +11,7 @@
 - 🚀 Participei ativamente em projetos desafiadores, trabalhando em equipes ágeis e desempenhando um papel fundamental no desenvolvimento de soluções inovadoras.
 
 
-##
+#####
 <div align="center"> 
   <a href="https://www.linkedin.com/in/guilherme-morais-a58548123" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -19,7 +19,7 @@
 </div>
 
 
-###🔧 Tecnologias Utilizadas
+### 🔧 Tecnologias Utilizadas
 
 #
 🎨 Back-end
@@ -58,19 +58,14 @@
 
 
 #          
-⚙️ Packages
+⚙️ Outros
 <div style="display: inline_block"><br>             
             <img align="center" alt="gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
             <img align="center" alt="gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />       
             <img align="center" alt="gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-</div>
-
-
-#
-💻 Software
-<div style="display: inline_block"><br>
-             <img align="center" alt="gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />     
+            <img align="center" alt="gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />     
             <img align="center" alt="gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />               
             <img align="center" alt="gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />         
             <img align="center" alt="gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />          
 </div>
+
