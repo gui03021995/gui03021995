@@ -26,21 +26,19 @@
 #
 🎨 Back-end
 <div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />                   
+  <img align="center" alt="gui-Sql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
+  <img align="center" alt="gui-Sql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />                   
 </div>
 
 
 #
 🔍 Stack de Dados
 <div style="display: inline_block"><br>
-  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />         
   <img align="center" alt="gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="gui-Pandas" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />          
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />          
+   <img align="center" alt="gui-Pandas" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+   <img align="center" alt="gui-Sql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />          
+   <img align="center" alt="gui-Sql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />          
 </div>
 
 
@@ -49,15 +47,15 @@
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
   <img align="center" alt="gui-Sql" height="30" width="40" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />          
+  <img align="center" alt="gui-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />          
 </div>
 
 
 #
 🧠 IA/ML
 <div style="display: inline_block"><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+    <img align="center" alt="gui-Sql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+    <img align="center" alt="gui-Sql" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 </div>          
 
 
