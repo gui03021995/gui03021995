@@ -1,6 +1,6 @@
 
 ## Olá, seja bem-vindo(a)!
-
+Meu nome é Guilherme.
 #
 - 👨‍💻 Desenvolvedor SQL / PYTHON apaixonado por criar experiências digitais incríveis.
 - 🎓 Formado em Engenharia da Computação.
