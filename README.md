@@ -5,7 +5,7 @@
 
 #
 - 👨‍💻 Desenvolvedor SQL / PYTHON apaixonado por criar experiências digitais incríveis.
-- 🎓 Formado em Engenharia da Computação.
+- 🎓 Formado em Engenharia da Computação - UEMG.
 - 🔭 Tenho experiência com desenvolvimento de aplicações desktop, banco de dados relacional e aplicações de Businesses Intelligence.
 - 💼 Trabalhei em projetos desafiadores, colaborando com equipes ágeis e contribuindo para o desenvolvimento de soluções inovadoras.
 - 🚀 Participei ativamente em projetos desafiadores, trabalhando em equipes ágeis e desempenhando um papel fundamental no desenvolvimento de soluções inovadoras.
