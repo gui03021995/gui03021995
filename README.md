@@ -4,7 +4,7 @@
 <p align="center"><strong>Meu nome é Guilherme.</strong></p>
 
 #
-- 👨‍💻 Desenvolvedor SQL / PYTHON apaixonado por criar experiências digitais incríveis.
+- 👨‍💻 Desenvolvedor SQL / PYTHON / C# apaixonado por criar experiências digitais incríveis.
 - 🎓 Formado em Engenharia da Computação - UEMG.
 - 🔭 Tenho experiência com desenvolvimento de aplicações desktop, banco de dados relacional e aplicações de Businesses Intelligence.
 - 💼 Trabalhei em projetos desafiadores, colaborando com equipes ágeis e contribuindo para o desenvolvimento de soluções inovadoras.
